@@ -1,4 +1,6 @@
-Looking to see if this can be updated. It's a work in progress.
+This is a fork. Looking to see if this can be updated as I had trouble getting it working.
+
+It's a work in progress.
 
 
 
